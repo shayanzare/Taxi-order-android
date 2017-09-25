@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>GetTaxi.qml</file>
+        <file>GetTaxiForm.ui.qml</file>
+    </qresource>
+    <qresource prefix="/Image">
+        <file>image/4582545841.gif</file>
+        <file>image/account-multiple.png</file>
+        <file>image/bio.png</file>
+        <file>image/counter.png</file>
+        <file>image/counter (1).png</file>
+        <file>image/dribbble_taxihub.png</file>
+        <file>image/easytaxi.ai-converted.png</file>
+        <file>image/map-marker.png</file>
+        <file>image/rsz_taxi_logos_png17.png</file>
+        <file>image/store.png</file>
+        <file>image/taxi_logos_PNG17.png</file>
+        <file>image/taxi-traffic-symbol-logo-5C9AD481F8-seeklogo.com.png</file>
+    </qresource>
+</RCC>
