@@ -4,8 +4,11 @@ Android application for Taxi order
 This application have 3 side :
 
 side 1 : Server
+
 side 2 : Manager
+
 side 3 : Android App
+
 
 <b>Manager</b>  This app can manage orders and message and ....
 
